@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <body>
 
@@ -17,8 +16,6 @@
 hello
 </textarea><br>
       <button type="submit">Submit</button>
-    </form>
-  </div>
 </body>
 </html>
 
