@@ -5,7 +5,7 @@
     <title>Contact Form</title>
     <style>
         body {
-            background-color: #e0f2f1; /* Light blue background color */
+            background-color: #e0f2f1;
         }
     </style>
 </head>
