@@ -61,17 +61,15 @@
     <fieldset>
         <legend>Contact Details</legend>
         <label>Email:<br />
-            <input type="text" name="email" /></label>
+            <input type="text" name="email" placeholder="Your email address" /></label>
         <br />
         <label>Phone:<br />
-            <input type="text" name="telephone" /></label>
+            <input type="text" name="telephone" placeholder="Your phone number" /></label>
         <br />
         <label>Mobile:<br />
-            <input type="text" name="mobile" /></label>
+            <input type="text" name="mobile" placeholder="Your mobile number" /></label>
     </fieldset>
-    <textarea id="message" name="message" rows="4" cols="50">
-hello
-</textarea><br>
+    <textarea id="message" name="message" rows="4" cols="50" placeholder="Your message here"></textarea><br>
     <button type="submit">Submit</button>
 
     <ul>
